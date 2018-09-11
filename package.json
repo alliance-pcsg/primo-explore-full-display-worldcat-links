@@ -1,0 +1,19 @@
+{
+  "name": "@orbis-cascade/primo-explore-full-display-worldcat-links",
+  "version": "0.0.1",
+  "description": "Creates worldcat link(s) in full display",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alliance-pcsg/primo-explore-full-display-worldcat-links.git"
+  },
+  "author": "Jeremy McWilliams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alliance-pcsg/primo-explore-full-display-worldcat-links/issues"
+  },
+  "homepage": "https://github.com/alliance-pcsg/primo-explore-full-display-worldcat-links#readme"
+}
